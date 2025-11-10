@@ -77,7 +77,7 @@ This project highlights IP addressing, VLAN segmentation, device connectivity, a
   (https://drive.google.com/file/d/1Srd7Ldq8Ej-PFIQRp4T1nj2-cvLhAL-a/view?usp=sharing)
 
 ## 👩🏽‍💻 Author
-Emmanuella Obenewah Oppong (@obenewa_h) 
+Emmanuella Obenewah Oppong (@Emmanuella Oppong) 
 _Networking & IT Infrastructure Enthusiast_
 
 ---
